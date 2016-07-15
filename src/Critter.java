@@ -1,5 +1,3 @@
-package lab3;
-
 public class Critter extends Organism {
 
 	protected Critter(int xpos, int ypos, World world) {

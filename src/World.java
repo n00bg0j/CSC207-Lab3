@@ -1,5 +1,3 @@
-package lab3;
-
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -35,7 +33,7 @@ public class World {
 	}
 
 	public void turn() {
-		// Your implementiation goes here
+		// Your implementation goes here
 		
 	}
 

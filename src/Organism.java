@@ -1,5 +1,3 @@
-package lab3;
-
 import java.util.ArrayList;
 
 public abstract class Organism {
